@@ -43,3 +43,7 @@ typechain
 #Hardhat files
 cache
 artifacts
+
+# private
+keys.env
+.secret
